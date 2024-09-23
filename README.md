@@ -22,6 +22,6 @@ As I navigate through my studies, I aim to learn and grow not only as a programm
 To explore my projects, feel free to navigate through the various directories and check out the code and documentation provided.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
 Thank you for visiting my repository!
