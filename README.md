@@ -3,7 +3,7 @@
 Hi, this is my Semester 6 project repository! Here, I will submit all my semester assignments.
 
 ## About Me
-My name is Shaima, and I am currently pursuing a degree in Computer Science. I have a passion for technology and machine learning, and I enjoy working on projects that align with sustainable development goals. I believe that through hard work and perseverance, we can tackle real-world problems with innovative solutions.
+My name is Shaima, and I am currently pursuing a degree in Computer Science. I have a passion for technology and machine learning. I believe that through hard work and perseverance, we can tackle real-world problems with innovative solutions.
 
 ## Project Overview
 In this repository, you will find various assignments and projects from my semester 6 courses, including:
