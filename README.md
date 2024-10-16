@@ -1,9 +1,9 @@
 # Semester 6 Project Repository
 
-Hi, this is my Semester 6 project repository! Here, I will submit all my semester assignments.
+Hi, this is my Semester 6  repository! Here, I will submit all my semester Works from start to enc.
 
 ## About Me
-My name is Shaima, and I am currently pursuing a degree in Computer Science. I have a passion for technology and machine learning. I believe that through hard work and perseverance, we can tackle real-world problems with innovative solutions.
+My name is Shaima, and I am currently pursuing a degree in Computer Science. I have a passion for technology. I believe that through hard work and perseverance, we can tackle real-world problems with innovative solutions.
 
 ## Project Overview
 In this repository, you will find various assignments and projects from my semester 6 courses, including:
